@@ -17,4 +17,15 @@ var theString = function () {
 	console.log(string1 + string2) 
 };
 
+
+var myBoolean = function() {var b = confirm("Do you like to count?"); while (b === false) 
+	{ var b = confirm("Are you sure...Do you like to count?")
+ }
+};
+
+
+
+
+
 theString();
+myBoolean();
