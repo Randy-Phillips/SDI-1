@@ -1,6 +1,6 @@
-//
-//
-//
+// myName =  Randy Phillips
+// myClass = SDI 1407
+// myProject = Project 2
 
 // Global Variables
 
